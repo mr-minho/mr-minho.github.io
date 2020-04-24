@@ -1,1 +1,1 @@
-[{"title":"Hello World","date":"2020.04.11","uri":"2020/04/11/hello-world/","excerpt":""}]
+[{"title":"欢迎来到我的博客","date":"2020.04.11","uri":"2020/04/11/hello-world/","excerpt":""}]
